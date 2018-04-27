@@ -1,22 +1,42 @@
 {
-    "name": "<YOUR NAME>",
-    "netlify_subdomain": "<YOUR NETLIFY URL>",
-    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>"
-    "blog_post_1": {
-        "title": "<TITLE1>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    "name": "Qiping Sun",
+    "netlify_subdomain": "epic-bartik-2a183b.netlify.com",
+    "optional_dns": "musicai.fun",
+
+        "blog_post_1": {
+        "title": "Machine Learning for Music",
+        "url": "https://medium.com/@svanillasun/machine-learning-for-music-a9a44dff6776",
+        "keywords": ["Machine Learning","Artificial Intelligence","Music"]
     },
     "blog_post_2": {
-        "title": "<TITLE2>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "NumPy Basic",
+        "url": "https://medium.com/@svanillasun/numpy-basic-9723fbfdea16",
+        "keywords": ["Machine Learning","Data Science","NumPy"]
     },
     "blog_post_3": {
-        "title": "<TITLE3>",
-        "url": "<MEDIUM OR WEB URL>",
-        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+        "title": "Pandas Basic",
+        "url": "https://medium.com/@svanillasun/pandas-basic-ab10385e2cfc",
+        "keywords": ["Data Science","Pandas","Visualization"]
     },
-    "my_linkedin": "<URL TO LINKEDIN>",
-    "latex": "<YOUR LATEX (REMEMBER VALID JSON)>"
+    "my_linkedin": "https://www.linkedin.com/in/qiping/",
+    "latex": "This is matrix multiplication by using LaTex:
+            $ begin{equation*}
+              begin{bmatrix}
+                9 & 9 \\
+                6 & 10 \\
+                5 & 7 \\
+                \\end{bmatrix}
+                =
+              begin{bmatrix}
+                1 & 1 & 0
+                0 & 1 & 1
+                0 & 0 & 1
+                \\end{bmatrix}
+                .
+              begin{bmatrix}
+                4 & 2 \\
+                1 & 3 \\
+                5 & 7 \\
+                \\end{bmatrix}
+            \\end{equation*} $"
 }
