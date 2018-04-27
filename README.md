@@ -1,2 +1,1 @@
-# presentation_data.json
-Lambda School - Presenting Sprint Challenge
+# Lambda School - Presenting Sprint Challenge
